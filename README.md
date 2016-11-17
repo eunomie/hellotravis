@@ -1,5 +1,7 @@
 # Hello App
 
+Go 1.7
+
 ## Build
 
 ```
